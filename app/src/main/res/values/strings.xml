@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">WebToon</string>
     <string name="back_to_last">back to last</string>
-    <string name="change_tab_name">chage tab name</string>
+    <string name="change_tab_name">change tab name</string>
+    <string name="back_to_last_error_message">back to last error message</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
 </resources>
